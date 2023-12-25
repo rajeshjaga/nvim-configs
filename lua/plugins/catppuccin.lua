@@ -10,4 +10,4 @@ return   {
     vim.cmd.colorscheme "catppuccin"
     vim.g.catppuccin_flavour = "mocha"
   end
-} 
+}
